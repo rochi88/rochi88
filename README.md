@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-This is <b>Raisul Islam</b>
+This is <b>Raisul</b>
 
 Here are some ideas to get you started:
 
