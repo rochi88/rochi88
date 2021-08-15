@@ -4,8 +4,8 @@ This is <b>Raisul</b>
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... Flutter ... Laravel
-- 🌱 I’m currently learning ... Golang
+- 🔭 I’m currently working on ... Golang ... Flutter ... Laravel
+- 🌱 I’m currently learning ... NLP ... grpc
 - 👯 I’m looking to collaborate on ... python project
 - 🤔 I’m looking for help with ... 
 
