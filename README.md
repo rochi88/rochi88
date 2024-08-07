@@ -4,16 +4,14 @@
 
 
 ### Hi there 👋
-
-This is <b>Raisul</b>
-
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... ... Flutter ... Laravel ... Livewire
 - 🌱 I’m currently learning ... Rust ... Golang
 - 👯 I’m looking to collaborate on ... python project
 - 🤔 I’m looking for help with ... DevOps
+-->
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rochi88&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rochi88&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 ![Github Stats](https://github-readme-stats-one-bice.vercel.app/api?username=rochi88&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
