@@ -1,5 +1,5 @@
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white))](mailto:raisul.me@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
-[![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-raisul-islam-0095a55a/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:raisul.me@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
+[![LinkedIn Connect](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/md-raisul-islam-0095a55a/)
 <!-- [![Quora Follow](https://img.shields.io/badge/%20-Follow-black?color=14171C&labelColor=ef5350&logo=Quora&logoColor=ffffff)](https://www.quora.com/profile/Md-Raisul-Islam-1) -->
 
 
