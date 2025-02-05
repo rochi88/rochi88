@@ -22,7 +22,7 @@
 -->
 
 ## 🧰 Github
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rochi88&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rochi88&langs_count=8&hide_title=false&hide_border=true&layout=compact&card_width=350&hide=html)](https://github.com/anuraghazra/github-readme-stats)
 ![Github Stats](https://github-readme-stats-one-bice.vercel.app/api?username=rochi88&show_icons=true&include_all_commits=false&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
 
 
