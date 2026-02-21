@@ -24,6 +24,9 @@
 -->
 
 ## 🧰 Github
+## 🚀 Most Used Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rochi88&langs_count=8&layout=compact&theme=transparent&hide_border=true&hide=html,css)](https://github.com/rochi88)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rochi88&langs_count=8&hide_title=false&hide_border=true&layout=compact&card_width=350&hide=html)
 ![Github Stats](https://github-readme-stats-one-bice.vercel.app/api?username=rochi88&show_icons=true&hide_border=true&include_all_commits=false&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
 
